@@ -1,0 +1,17 @@
+# PyTorch model files
+*.pt
+*.pth
+best.pt
+best.pth
+
+# Checkpoint directories
+checkpoints/
+checkpoint/
+**/checkpoints/
+**/checkpoint/
+
+# Model artifacts
+models/*.pt
+models/*.pth
+wandb/
+outputs/
